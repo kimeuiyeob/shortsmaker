@@ -84,14 +84,13 @@ def generate_shorts_script(transcript_text, api_key, style="감성적"):
 **Input:**
 - Transcript: {transcript_text}
 - Desired Style: {style}
-- Duration: 3 minute
+- Duration: 1 minute
 
 **Instructions:**
 
 1. **Summary Requirements:**
    - Extract only the core message and key information from the transcript.
    - Maintain logical flow and coherence.
-   - Ensure the content fits within a 1-minute reading or narration time (approx. 130-150 words).
    - Avoid omitting critical information.
 
 2. **Style Requirements:**
